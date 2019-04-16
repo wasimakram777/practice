@@ -1,6 +1,4 @@
 #include <stdio.h>
-#sjgjsghdjkhsfjkhgjkhsgj
- 
 void big()
 {
     int num1, num2, num3;
